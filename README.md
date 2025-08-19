@@ -73,4 +73,4 @@ npm run build:prod #打包编译
 编译并覆盖
 npm run build:prod && \cp -r -f dist/* ../backend/public/admin/
 
-已购50+，自动发货，无需等待
+<a href="https://pan.notestore.cn/laravel/24.html">已购50+，自动发货，无需等待</a>
